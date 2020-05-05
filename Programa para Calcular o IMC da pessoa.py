@@ -1,3 +1,5 @@
+# Programa para calcular o índice de massa corporal da pessoa!(IMC)
+
 peso = float(input('Digite seu peso (Kg): '))
 altu = float(input('Digite sua altura: '))
 imc = peso / (altu ** 2)
