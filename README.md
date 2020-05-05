@@ -1,4 +1,5 @@
-# Python
+python3
+
 Projetos em Python
 
-Sou estudante e estou colocando alguns projetos meus aprendidos em Cursos no GitHub
+Sou estudante de Python 3 e estou colocando alguns projetos no GitHub.
